@@ -1,4 +1,4 @@
-#feynmanShop
+# feynmanShop
 
 ## Setup
 
@@ -9,7 +9,7 @@ src/main/frontend> npm start
 ```
 
 ## API Documentation
-GET Request
+### GET Request
 ```
 getQuantityAndPrice(productID,colour,size)
 ```
