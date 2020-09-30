@@ -2,7 +2,7 @@
 
 ## Setup
 
-Open pom.xml as a Project and do Maven install which will create the "target" folder.
+Open pom.xml as a Project and do a Maven install phase which will create the "target" folder.
 ```
 target> java application-0.0.1-SNAPSHOT.jar
 src/main/frontend> npm start
